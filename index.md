@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://ZaipengZhang.github.io/zaipeng.jpg" class="floatpic">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
 
